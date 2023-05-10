@@ -19,7 +19,7 @@ function showList(){
 							<img
 								src="https://static.cdn.soomgo.com/upload/talkboard/f075fba9-b4bd-4611-b21b-3dfda78f4c05.jpg?webp=1"
 									class="content-image">
-								</figure>
+						  		 </figure>
 							<h3 class="content-title">'시간 가는 줄 모르는 수업' 만드는 고수</h3>										<p class="content-writer">권지안</p>
 						</a>
 					</section>
